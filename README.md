@@ -1,7 +1,7 @@
 # retail-sports-edav
 A data-driven solution developed to identify and rectify operational inefficiencies in a national sports retail chain.
 
-##Key Features:
+## Key Features:
 
 Data Engineering: T-SQL scripts for complex data staging, handling 150k+ sales records and 50k+ customers.
 
